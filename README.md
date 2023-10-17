@@ -8,6 +8,7 @@ NÃO TENTE USAR UMA VPN NORMAL,APENAS VPNS QUE SÃO EXTENSÕES DO GOOGLE CHROME.
 O projeto NÃO funciona offline e NÃO necessita do download do Windows 10.
 Copie o link do seu Fork para usos futuros.
 Se o GitHub banir esse repositório/minha conta, irei fazer reupload.
+É normal o Create Tunnel dar erro!
 # Tutorial de Instalação 
 Vá em [https://dashboard.ngrok.io] e crie uma conta lá (use a opção do google pra ir mais rápido)
 
